@@ -18,7 +18,7 @@ To analyze the theatre outcomes based on launch date, a pivot table was created 
 
 
 
-![Theatre Outcome_vs_ Launch_Table](Resources./Theatre_Outcome_vs_ Launch_Table.png) 
+![Theatre_Outcome_vs_Launch_Table](Resources./Theatre_Outcome_vs_Launch_Table.png) 
 
 ### Analysis of Outcomes Based on Goals
 A seperate spreadsheet was created to analyze the theatre outcomes based on the fundraising goals. Using the spreasheet, a line graph was created to visualize the data. It is clear that campaigns with low fundraising goals had the highest success percentage, which is seen for goals with less than 1000 and goals with 1000 to 4999. Campaigns that had goals of 5000 to 9999, 10000 to 14999 and 15000 to 19999 have roughly the same success percentage. After that there was a gradual decrease in success percentage till the goal 25000 to 29999 where it gradually increased and it platued at goals 35000 to 34999 and 40000 to 44999. Campaigns with goals of 45000 to 49999 had success percetage of 0. This can be seen in the chart and table 
